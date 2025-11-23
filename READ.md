@@ -36,6 +36,7 @@ This section was developed entirely by Member 1:
 - Time series and distribution analysis
 
 ▶ Run (terminal)
-streamlit run app.py
+streamlit run app1.py
+
 
 
